@@ -1,7 +1,7 @@
 ### Olá, eu sou Isaque Levi👋
-🌱 Cursando ADS
-🌎 Inglês intermediário
-💬 Contate-me no email: isaquelevts@gmail.com
+🌱 Cursando ADS<br>
+🌎 Inglês intermediário<br>
+💬 Contate-me no email: isaquelevts@gmail.com<br>
 
 
  <div>
