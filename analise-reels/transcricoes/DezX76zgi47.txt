@@ -1,0 +1,56 @@
+[  0.0s] Se você levanta as paredes da casa e fecha em cima com uma lagem reta de concreto,
+[  4.3s] a chuva não tem pra onde ir.
+[  6.0s] Ela fica empossada, acha uma rachadurinha e pinga lá dentro.
+[  9.5s] Então você inclina a cobertura pra água escorrer.
+[ 12.3s] Mas uma lagem inteira de uma peça só estica no sol e encole de noite, todo dia, até rachar.
+[ 18.3s] E aí vaza de novo.
+[ 19.7s] Então você cobre com um monte de peças pequenas e soltas, que podem mexer à vontade sem rachar.
+[ 25.0s] Essas são as telhas.
+[ 26.6s] Mas agora a água entra pela fresta entre uma telha e outra.
+[ 29.9s] Então você encaixa cada telha por cima da telha de baixo.
+[ 33.5s] A água sempre cai na telha de baixo, nunca na fresta.
+[ 36.7s] Só que se o telhado for muito deitado, a água para, enche a fresta e entra por baixo.
+[ 41.8s] Por isso o telhado de barro precisa de pelo menos 30% de inclinação, sobe 30 cm a cada metro.
+[ 47.9s] Mas telha não flutua.
+[ 49.4s] Então você prega, deitadas, umas ripinhas de madeira que seguram cada fileira de telha.
+[ 54.1s] Essas são as ripas.
+[ 55.6s] Mas você precisa de algo para sustentar as ripas.
+[ 58.3s] Então você apoia elas em madeiras mais grossas, descendo o telhado.
+[ 62.0s] Esses são os caibros.
+[ 63.6s] Mas esse monte de madeira com milhares de telhas em cima pesa toneladas.
+[ 68.4s] Apoiado só nas paredes, ele enverga no meio e ainda empurra as paredes para fora.
+[ 73.0s] Então você apoia tudo em triângulos de madeira.
+[ 75.7s] Triângulo é a forma que não deforma.
+[ 77.9s] Empurrou, ele não sede.
+[ 79.7s] E a barra de baixo segura as duas pernas que queriam abrir.
+[ 82.6s] Essas são as tesouras.
+[ 84.3s] Mas lá em cima, onde os dois lados do telhado se encontram, sobra uma festa aberta.
+[ 88.6s] Então você fecha com telhas curvas, coladas com larga massa.
+[ 91.9s] Essa é a cumeira.
+[ 93.3s] Mas a água que escorre do telhado cai grudada na parede e vai encharcando a parede e a base
+[ 97.9s] da casa.
+[ 98.9s] Então você estica o telhado para fora da parede, para a água cair longe.
+[102.3s] Esse é o beiral.
+[103.6s] E, onde não dá para esticar, você põe uma canaleta na beirada, que junta a
+[107.3s] água e leva por um cano até o chão.
+[109.6s] Essa é a calha.
+[110.9s] Mas, onde o telhado encosta numa parede mais alta, a chuva escorre pela parede e entra por
+[115.4s] baixo das telhas.
+[116.9s] Então você cobre esse encontro com uma chapa dobrada.
+[119.5s] Um lado entra na parede, o outro deita por cima das telhas.
+[123.3s] Esse é o rufo.
+[124.3s] Mas, num temporal convento, a chuva entra de lado por baixo das telhas.
+[128.5s] E no sol, as telhas passam de 50 graus e torram a casa.
+[132.3s] Então você estende, embaixo das telhas, uma manta com um lado de alumínio.
+[136.3s] A água que passar escorre por cima dela até a calha.
+[139.5s] E o alumínio rebate o calor de volta.
+[141.6s] Essa é a subcobertura.
+[143.3s] Mas o ar embaixo das telhas fica quente, e esse calor desce para dentro da casa.
+[147.8s] Então você fecha por baixo, deixando um colchão de ar preso entre ele e as telhas.
+[152.4s] O ar quente fica lá em cima.
+[154.1s] Esse é o foco.
+[155.4s] Amar as telhas da beirada com arame, pro vento não levar.
+[158.1s] Parabéns!
+[159.1s] Você construiu um telhado.
+[160.7s] Se você sabia, comente engenheiro.
+[162.9s] Se não sabia, comente estagiário.

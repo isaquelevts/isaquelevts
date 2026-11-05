@@ -1,0 +1,78 @@
+[  0.0s] Se você deixar a gasolina num tambor na beira da rua, os carros já abastecem.
+[  3.3s] Mas um carro esbarra no tambor, a gasolina escorre e uma faísca põe fogo em tudo.
+[  6.9s] Então você cava um buraco fundo e enterra um tanque de aço.
+[  9.5s] Esse é o tanque subterrâneo.
+[ 10.9s] O combustível fica embaixo dos seus pés.
+[ 12.6s] Mas com os anos, o aço enferruja e fura, e a gasolina desce até a água embaixo da terra.
+[ 16.9s] Então você faz o tanque com duas paredes, uma dentro da outra.
+[ 19.5s] Esse é o tanque de parede dupla.
+[ 21.1s] Se é de dentro furar, a de fora segura.
+[ 22.8s] Mas o vazamento acontece escondido e ninguém fica sabendo.
+[ 25.2s] Então você põe um sensor no vão entre as paredes, que dispara um alarme quando aparece líquido.
+[ 28.9s] Esse é o sensor de vazamento.
+[ 30.3s] Mas o sensor só vigia o tanque.
+[ 31.8s] E um cano furado suja a terra em volta sem ninguém ver.
+[ 34.2s] Então você crava tubos furadinhos em volta do tanque até a água e tira amostras.
+[ 38.0s] Esses são os poços de monitoramento.
+[ 39.8s] Se a água sair com cheiro de gasolina, tem vazamento.
+[ 41.9s] Mas para encher o tanque, a mangueira do caminhão pinga.
+[ 44.3s] E cada pingo cai na terra.
+[ 45.7s] Então você põe a boca do tanque dentro de um balde enterrado, que segura os pingos.
+[ 49.0s] Essa é a câmara de contenção da descarga.
+[ 51.0s] Mas o caminhão manda a gasolina demais e o tanque transborda pela boca.
+[ 53.9s] Então você põe dentro do cano uma boia, que fecha a passagem quando o tanque fica quase cheio.
+[ 58.9s] Contra a transbordamento.
+[ 59.9s] Mas quando a gasolina entra, o ar de dentro não tem por onde sair.
+[ 62.7s] E o tanque estufla.
+[ 63.7s] Então você sobe um cano do tanque até bem alto com uma tampinha que deixa o ar sair e
+[ 67.2s] barro fogo.
+[ 68.2s] Esse é o respiro.
+[ 69.2s] Mas os carros vão pingar óleo e gasolina no chão.
+[ 70.9s] E a terra bebe tudo.
+[ 72.2s] Então você cobre o terreno com um concreto grosso e liso, que não deixa nada passar.
+[ 75.7s] Esse é o piso impermeável.
+[ 77.1s] Mas a chuva lava esse piso e leva o óleo direto para o boeiro e para o rio.
+[ 80.4s] Então você faz uma canaleta em volta da pista, que leva tudo para uma caixa
+[ 83.4s] onde o óleo boia e fica preso.
+[ 84.9s] E só a água sai.
+[ 85.9s] Essa é a caixa separadora de água e óleo.
+[ 88.0s] Mas os carros manobram colados e uma raspada derruba a bomba.
+[ 90.9s] Então você sobe o lugar da bomba numa ilha de concreto e crava tubos de aço amarelos nas
+[ 94.3s] pontas.
+[ 95.3s] Essa é a ilha com as defensas.
+[ 96.3s] Mas embaixo da bomba ficam as emendas dos canos.
+[ 98.5s] E uma gota que vaze ali vai para a terra.
+[100.5s] Então antes da bomba você enterra no pé da ilha uma caixa fechada, onde os canos
+[104.0s] se encontram.
+[105.0s] Essa é a câmara de contenção da bomba.
+[106.5s] Mas a gasolina está lá embaixo e o carro aqui em cima.
+[109.0s] Então você instala na ilha uma máquina que puxa a gasolina pelo cano e conta
+[112.1s] cada litro no visor.
+[113.4s] Essa é a bomba de combustível.
+[115.0s] Mas se um carro sobe na ilha e arranca a bomba, o cano esguiche a gasolina como uma fonte.
+[118.8s] Então você põe no pé da bomba uma válvula que quebra num ponto certo e fecha o cano
+[122.4s] na hora.
+[123.4s] Essa é a válvula de impacto.
+[124.4s] Mas o tanque do carro enche, quem segura o bico não vê e a gasolina transborda.
+[127.6s] Então você põe na ponta do bico um furinho que sente a gasolina chegar e solta o gatilho
+[131.4s] sozinho.
+[132.4s] Esse é o bico automático.
+[133.4s] Mas o sol esquenta a bomba, a chuva molha quem abastece e à noite ninguém enxerga
+[137.0s] o bico.
+[138.0s] Então você ergue pilares e um teto alto em cima das bombas com luzes por
+[140.7s] baixo.
+[141.7s] Essa é a cobertura.
+[142.7s] Um tanque chega carregado de eletricidade da viagem e uma faísca na boca do tanque incendei
+[146.6s] o vapor.
+[147.6s] Então você prende um cabo do caminhão numa haste enterrada e a eletricidade escoa para
+[151.0s] a terra.
+[152.0s] Esse é o aterramento.
+[153.0s] Mas se mesmo assim começar um fogo, as bombas continuam mandando gasolina.
+[155.8s] Então você põe um botão vermelho que desliga todas as bombas de uma vez e extintores
+[159.5s] do lado de cada ilha.
+[160.5s] Esse é o botão de emergência.
+[161.8s] Agora a gasolina fica presa embaixo da terra e o carro sove a bomba e o bico.
+[165.5s] Parabéns!
+[166.5s] Você construiu um posto de gasolina.
+[167.9s] Quer aprender a fazer vídeos assim?
+[169.2s] O link tá na bio.

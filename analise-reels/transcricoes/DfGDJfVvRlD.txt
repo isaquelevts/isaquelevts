@@ -1,0 +1,59 @@
+[  0.0s] Se você levantar quatro paredes de tijolo em um quadrado, você não vai ter um quarto.
+[  4.5s] Vai ter um monte de inclinos.
+[  6.2s] Porque a terra fofa afunda com o peso dos tijolos.
+[  9.0s] Um lado desce mais que o outro e cada parede tomba pra fora.
+[ 12.5s] Então você cava buracos até achar a terra firme, enche com concreto e ferro
+[ 16.9s] e por cima corre uma viga de concreto embaixo de todas as paredes.
+[ 20.6s] Essa é a fundação e essa é a viga baldrame.
+[ 23.9s] Mas a umidade da terra sobe pelo concreto e pelo tijolo, como água num pano.
+[ 28.1s] E o pé da parede fica com o mofo e a tinta estufa.
+[ 30.9s] Então, antes do primeiro tijolo, você pinta a viga baldrame com uma tinta preta de piche, que a água não atravessa.
+[ 37.4s] Essa é a impermeabilização.
+[ 39.3s] É por isso que, quando essa pintura é mal feita, o mofo aparece sempre no pé da parede.
+[ 43.8s] Agora você levanta as paredes.
+[ 45.6s] Mas o tijolo só empilhado cai com um empurrão.
+[ 48.2s] Então você cola um tijolo no outro com uma massa de cimento, areia e água.
+[ 52.2s] E desencontra as fileiras pra uma emenda nunca ficar em cima da outra.
+[ 56.0s] Essa é a arga massa.
+[ 57.7s] Mas esse tijolo furado, sozinho, não foi feito pra aguentar o peso de tudo que vai em cima dele.
+[ 62.6s] E a parede trinca nos cantos.
+[ 64.5s] Então, nos cantos você levanta colunas de concreto com ferro dentro.
+[ 68.4s] E no alto das paredes, uma viga ligando todas elas.
+[ 71.4s] Esses são os pilares.
+[ 72.9s] E essa é a viga de amarração.
+[ 74.7s] Agora são eles que seguram o peso.
+[ 76.6s] Mas quando você abre o buraco da janela, os tijolos de cima ficam sem apoio.
+[ 80.7s] E a parede racha em diagonal saindo do canto da janela.
+[ 83.8s] Então você põe em cima da janela uma barra de concreto armado.
+[ 87.0s] Mais comprida que ela dos dois lados.
+[ 89.0s] Que joga o peso pras paredes do lado.
+[ 91.0s] Essa é a verga.
+[ 92.2s] E embaixo da janela vai outra, a contraverga.
+[ 95.0s] É por isso que quando falta verga, aparece aquela rachadura torta saindo do canto da janela.
+[ 99.9s] Mas, sem nada, em cima chove dentro de casa.
+[102.7s] Então você cobre com telhas encaixadas uma por cima da outra.
+[105.8s] Apoiadas numa estrutura de madeira e inclinadas pra água escorrer.
+[109.2s] Esse é o telhado.
+[110.7s] Mas o tijolo é cheio de furos e frestas.
+[113.2s] Um chuva e vento, a parede encharca e a umidade passa pra dentro.
+[116.8s] Então você joga na parede uma massa rala, que deixa ela áspera.
+[120.2s] Esse é o chapisco.
+[121.7s] E por cima dele, uma camada grossa de massa, bem lisa, por dentro e por fora.
+[126.2s] Esse é o reboco.
+[127.6s] Mas o chão ainda é de terra.
+[129.3s] Levanta a poeira e quando chove, gira a lama.
+[131.7s] Então você soca bem a terra, cobre com uma camada de concreto bem nivelada e cola o piso em cima.
+[137.2s] Esse é o contrapiso.
+[138.8s] Mas, quando falta água na rua, a torneira seca na hora.
+[142.5s] Então você põe uma caixa no ponto mais alto da casa.
+[145.4s] Ela enche quando tem água na rua.
+[147.2s] E a água desce pelos canos só com o próprio peso.
+[149.9s] Essa é a caixa d'água.
+[151.4s] É por isso que ela fica lá em cima.
+[153.0s] Coloque portas, janelas, fios, um sofá e um cachorro-quilate pra qualquer folha que cai.
+[158.3s] Agora é só pegar a chave e entrar.
+[160.3s] Parabéns!
+[161.1s] Você construiu uma casa.
+[162.8s] Se você já sabia, comente pedreiro.
+[165.0s] Se não sabia, comente servente.
+[167.0s] E segue o desmontando o mundo.

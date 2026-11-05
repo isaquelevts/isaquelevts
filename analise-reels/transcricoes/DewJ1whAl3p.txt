@@ -1,0 +1,39 @@
+[  0.0s] Se você tá morrendo de calor e coloca um balde de gelo na frente do ventilador, sai um vento geladinho, mas logo o gelo derrete e sobra um balde de água morna.
+[  8.7s] O gelo funciona porque pra derreter, ele rouba calor do ar.
+[ 12.4s] Então você troca o gelo por um líquido especial, que também rouba o calor do ar, só que fervendo.
+[ 17.8s] Ele ferve a uns 50 graus abaixo de zero. Esse é o fluido refrigerante.
+[ 22.4s] Você põe esse líquido numa serpentina, um cano todo enrolado com o ventilador atrás.
+[ 27.2s] E o vento sai gelado. Esse é o evaporador.
+[ 30.5s] Mas o líquido vira gás e escapa pela ponta do cano. Esse é o famoso gás do ar condicionado.
+[ 35.9s] E desse jeito, ia acabar evaporando tudo.
+[ 38.7s] O truque é fazer esse gás virar líquido de novo e voltar pro começo, num ciclo.
+[ 43.8s] Pra isso ele precisa soltar o calor que roubou.
+[ 46.6s] Só que mesmo tendo roubado esse calor, o gás ainda tá mais frio que tudo em volta. Não tem pra onde mandar esse calor.
+[ 53.1s] Então você liga o cano numa bomba que exprêne o gás.
+[ 56.3s] Gás espremido e esquenta, igual bomba de enchepe neu.
+[ 59.2s] Esse é o compressor. Agora o gás sai a uns 70 graus, mais quente que a rua.
+[ 63.9s] Então ele passa por outra serpentina, lá fora, com outro ventilador.
+[ 67.6s] O vento da rua esfria o gás e ele vira líquido de novo.
+[ 70.9s] Ou seja, o ar condicionado não fabrica frio.
+[ 74.1s] Ele tira o calor de dentro da sua casa e joga aqui fora. Esse é o condensador.
+[ 79.1s] Mas esse líquido ainda tá espremido, porque lá atrás a gente espremeu o gás.
+[ 83.6s] Pra voltar a gelar, ele precisa voltar ao normal, como era no começo.
+[ 87.2s] Então você faz ele passar por um furinho.
+[ 89.6s] Antes do furinho, o líquido fica apertado.
+[ 91.9s] Depois ele cai num cano largo, se solta, volta ao normal e ferve gelado de novo.
+[ 97.2s] Essa é a válvula de expansão.
+[ 99.1s] Agora é sempre o mesmo gás dando voltas.
+[101.8s] Se precisar recarregar, é porque tem vazamento.
+[104.3s] Mas o cano gelado começa a pingar no chão.
+[106.8s] É a umidade do ar virando água, igual o copo gelado suando.
+[110.3s] Então você põe uma mangueira que leva essa água pra fora.
+[113.2s] Esse é o dreno.
+[114.4s] Mas ele não para de gelar, e o quarto vira uma geladeira.
+[117.7s] Então você põe um sensor que desliga o compressor na temperatura que você escolheu.
+[121.8s] Esse é o termostato.
+[123.5s] Mas ficar liga desliga gasta mais energia.
+[126.1s] Então, em vez de desligar, o compressor só gira mais devagar.
+[129.5s] Esse é o inverter.
+[130.9s] Coloque um filtro, uma tampa branca e um controle remoto.
+[134.0s] Parabéns! Você construiu um ar condicionado.
+[137.2s] Comente frio, se você não sabia dessa.

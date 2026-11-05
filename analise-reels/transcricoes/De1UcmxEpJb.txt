@@ -1,0 +1,53 @@
+[  0.0s] Se você quer ir longe sem cansar as pernas, precisa de uma força que não cansa.
+[  4.8s] Então você pega a gasolina, que é cheia de energia, e bota fogo nela.
+[  8.8s] Esse é o combustível.
+[ 10.4s] Você até gera forças, só que ela se espalha pra todo lado, e desse jeito não vai te ajudar em nada.
+[ 15.6s] Então você queima essa gasolina misturada com ar dentro de um tubo de metal fechado,
+[ 20.0s] com uma tampa que desliza lá dentro.
+[ 22.0s] Presa no tubo, ela queima rapidinho e aumenta a pressão, empurrando essa tampa com força.
+[ 26.8s] Esse é o cilindro.
+[ 28.2s] E essa tampa é o pistão.
+[ 30.0s] Só que o pistão só sobe e desce, e a roda precisa girar.
+[ 33.2s] Então você prende o pistão numa haste ligada num eixo torto, que transforma esse sobe e desce em giro.
+[ 38.8s] Essa é a biela, e esse eixo torto é o vira-brequim.
+[ 42.6s] Agora, a energia da gasolina faz o pistão descer, e o pistão faz a roda girar.
+[ 47.6s] Mas, depois da explosão, o cilindro fica cheio de fumaça, e não sobra espaço pra gasolina nova.
+[ 52.8s] Então você faz duas portinhas no topo.
+[ 55.2s] Uma deixa a fumaça sair, e a outra deixa entrar ar com gasolina.
+[ 58.8s] Essas são as válvulas.
+[ 60.2s] Só que essas portinhas precisam abrir e fechar na hora certa.
+[ 63.6s] Então você põe em cima um eixo cheio de calombos, que gira junto com o vira-brequim por uma correia.
+[ 68.6s] Esse é o comando de válvulas.
+[ 70.6s] Mas, gasolina em gota grande não queima direito.
+[ 73.2s] Então você borrifa as linguotinhas bem pequenas, que se misturam com o ar.
+[ 77.0s] Esse é o bico injetor.
+[ 79.0s] E, pra explosão ficar bem mais forte, o pistão sobe e esmaga a mistura antes.
+[ 84.2s] Aí, uma faísca acende tudo na hora certa.
+[ 86.8s] Essa é a vela de ignição.
+[ 88.8s] Alma, é mais importante você entender a ideia do que decorar os nomes.
+[ 92.8s] O ar com gasolina entra.
+[ 94.8s] O pistão esmaga essa mistura.
+[ 96.8s] A faísca explode tudo.
+[ 98.8s] E a fumaça sai.
+[ 99.8s] Esses são os quatro tempos do motor.
+[101.8s] Mas um pistão só empurra uma vez a cada duas voltas, e o carro anda dando tranco.
+[106.8s] Então você põe quatro cilindros, que explodem um depois do outro, e uma roda bem tesada que mantém o giro.
+[112.8s] Esse é o volante do motor, que não tem nada a ver com o volante que você segura.
+[116.8s] Agora você dirige, e o carro não dá mais tranco.
+[119.8s] Mas tanta explosão esquenta o metal até ele quase derreter.
+[123.8s] Então você passa a água em volta dos cilindros, pra absorver o calor que eles geram.
+[127.8s] E o vento esfria essa água numa grade na frente do carro.
+[130.8s] Esse é o radiador.
+[133.8s] Mas metal raspando em metal gasta e trava.
+[136.8s] Então você espalha o óleo por todas as peças pra elas deslizarem.
+[139.8s] Esse é o óleo do motor.
+[141.8s] É isso que tem que trocar ele de tempos em tempos.
+[144.8s] Mas o motor não começa a girar sozinho.
+[146.8s] Então você põe um motorzinho elétrico ligado numa bateria que dá o primeiro empurrão.
+[150.8s] Esse é o motor de arranque.
+[152.8s] É ele que faz aquele barulho quando você vira a chave.
+[155.8s] Coloque o motor no carro, ligue ele no câmbio e nas rodas, e ponha um escapamento pra abafar o barulho.
+[160.8s] Agora é só virar a chave e acelerar.
+[163.8s] Bem, você construiu um motor de carro.
+[166.8s] Se você sabia, comente motorista.
+[168.8s] Se não sabia, comente autoescola.

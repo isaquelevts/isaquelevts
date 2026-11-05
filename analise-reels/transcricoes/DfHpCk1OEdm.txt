@@ -1,0 +1,34 @@
+[  0.0s] Se você puxar a água do rio e mandar direto para as casas, a torneira enche na hora, mas
+[  5.6s] junto vengalho, folha e até peixe e o cano em top.
+[ 10.1s] Então você põe a bomba rio acima, antes da cidade, atrás de uma grade de ferro.
+[ 15.5s] Essa é a captação.
+[ 17.0s] Mas a água que sai na torneira continua suja, cheia de terra do rio.
+[ 21.1s] Então você leva o cano até um terreno do lado para limpar a água antes de ela
+[ 25.3s] chegar nas casas.
+[ 26.9s] Essa é a estação de tratamento de água.
+[ 29.5s] Mas a água chega marrom na estação e a terra fininha não afunda nunca, nem com a água parada.
+[ 35.2s] Então você joga um pó, o sulfato de alumínio e mexe devagar.
+[ 39.3s] A sujeira gruda e vira flocos.
+[ 42.1s] Esse é o floculador.
+[ 43.7s] Ele junta a sujeira em flocos.
+[ 45.8s] Mas os flocos ficam rodando no tanque e a água continua turva.
+[ 49.8s] Então você faz a água andar bem devagar num tanque comprido e os flocos pesados afundam
+[ 55.4s] sozinhos.
+[ 56.4s] Esse é o decantador.
+[ 58.3s] A sujeira fica no fundo e a água limpa e sai por cima.
+[ 61.9s] Mas ainda sobra uma sujeira miuda que o olho quase não vê.
+[ 65.7s] Então você faz a água descer por camadas de carvão, areia e pedra que seguram cada grãozinho.
+[ 71.9s] Esse é o filtro.
+[ 73.4s] Mas a água transparente ainda tem micróbios invisíveis que dão diarreia.
+[ 77.9s] Então você põe um pouco de cloro, que mata os micróbios e continua protegendo a água
+[ 82.6s] no cano.
+[ 83.6s] Essa é a desinfecção.
+[ 85.3s] Mas muita criança ainda tem caro e no dente.
+[ 88.1s] Então você põe uma pitada de flúor na água, que deixa o dente mais forte.
+[ 92.4s] Essa é a floretação.
+[ 94.2s] Agora a água que era marrom sai limpa por um cano, pronta para encher a caixa d'água
+[ 99.4s] da cidade.
+[100.4s] Parabéns!
+[101.4s] Você construiu uma estação de tratamento de água.
+[104.4s] Quer aprender a fazer vídeos assim?
+[106.4s] O link está na bio.

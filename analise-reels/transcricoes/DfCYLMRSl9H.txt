@@ -1,0 +1,27 @@
+[  0.0s] Se você cruzar a Avenida da Cidade direto com a Rodovia, os carros já entram.
+[  5.0s] Mas quem atravessa a Rodovia de frente leva uma batida de lado.
+[  9.2s] Então você passa a Avenida por cima, numa ponte apoiada em pilares.
+[ 13.7s] Esse é o Via Duto.
+[ 15.3s] Mas o carro que perde o controle lá em cima despenca na Rodovia.
+[ 19.4s] Então você põe um muro baixo de concreto em cada beirada.
+[ 22.8s] Essa é a barreira.
+[ 24.3s] Mas o carro não sobe do chão até a ponte.
+[ 27.0s] Então você faz uma rampa de terra compactada em cada ponta.
+[ 30.6s] Esse é o aterro de acesso.
+[ 32.7s] Mas agora não dá pra passar da Rodovia pra Avenida.
+[ 35.8s] Então você liga as duas com uma pista curva pela direita.
+[ 39.3s] Essa é a alça.
+[ 40.8s] Mas quem quer virar à esquerda teria que cruzar a pista contrária.
+[ 44.5s] Então você passa do Via Duto, entra num laço e dá três quartos de volta pela direita.
+[ 50.2s] Parece ao contrário, mas é virando à direita que você vai pra esquerda.
+[ 54.0s] Esse é o laço.
+[ 55.6s] Mas quem sai da Rodovia freia no meio dela e leva batida por trás.
+[ 60.1s] Então você abre uma faixa do lado pra frear fora da Rodovia.
+[ 64.1s] Essa é a faixa de desaceleração.
+[ 66.6s] Mas quem entra na Rodovia entra devagar, na frente de quem vem rápido.
+[ 71.0s] Então você faz uma faixa comprida pro carro ganhar velocidade antes de entrar.
+[ 76.0s] Essa é a faixa de aceleração.
+[ 78.4s] Parabéns!
+[ 79.3s] Você construiu um trevo.
+[ 81.4s] Quer aprender a fazer vídeos assim?
+[ 83.2s] Manda a palavra 3D na DM.

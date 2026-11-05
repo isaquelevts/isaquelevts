@@ -1,0 +1,65 @@
+[  0.0s] O que tem dentro de uma API?
+[  2.0s] 14 peças!
+[  3.5s] E a primeira existe por um motivo.
+[  5.8s] Sem ela, a senha do seu banco fica no celular de cada cliente.
+[  9.9s] Qualquer um abre o app e lê a senha.
+[ 12.3s] Então você põe um programa no servidor, o único que fala com o banco.
+[ 16.3s] Essa é a API.
+[ 18.1s] Mas a tela precisa ver, marcar e cancelar horários.
+[ 22.0s] Então cada pedido ganha um endereço.
+[ 24.3s] Essa é a roda.
+[ 25.8s] Mas ver e apagar no mesmo endereço é perigoso.
+[ 29.1s] Então o pedido leva um verbo.
+[ 31.1s] Jet pega.
+[ 32.4s] Post cria.
+[ 33.8s] Put atualiza.
+[ 35.3s] Delete apaga.
+[ 36.9s] Esse é o método HTTP.
+[ 39.3s] Mas outro site tenta chamar a sua API pelo navegador do cliente.
+[ 43.7s] Então a API diz ao navegador quais sites podem falar com ela.
+[ 48.1s] Esse é o Cores.
+[ 49.7s] Mas um robô manda mil pedidos por segundo.
+[ 52.7s] Então na porta, cada um só pede um tanto por minuto.
+[ 56.5s] Esse é o Hate Limit.
+[ 58.4s] Mas qualquer um cancela o horário dos outros.
+[ 61.1s] Então o próximo porteiro pede um crachá.
+[ 63.6s] Esse é o Tolkien.
+[ 65.2s] Mas chega um telefone cheio de letras e o banco quebra.
+[ 68.8s] Então o último porteiro confere os dados.
+[ 71.6s] Essa é a validação.
+[ 73.4s] Passou pelos porteiros.
+[ 75.0s] Mas quem decide o que fazer?
+[ 77.0s] Então uma testa recebe o pedido e chama as outras.
+[ 80.3s] Esse é o Controller.
+[ 82.0s] Mas o Controller virou um monstro.
+[ 84.0s] Cheio de regra.
+[ 85.3s] Não pode marcar no passado nem dois no mesmo horário.
+[ 88.5s] Então a regra ganha uma peça só dela.
+[ 91.0s] Esse é o Service.
+[ 92.6s] Mas cada parte mexe no banco do seu jeito.
+[ 95.6s] Então só uma peça fala com cada tabela.
+[ 98.4s] Esse é o Model.
+[ 99.9s] Agora o resultado volta em JSON.
+[102.2s] Com um número.
+[103.2s] 200.
+[104.1s] Deu certo.
+[105.2s] 404.
+[106.7s] Não achei.
+[107.7s] 500.
+[108.6s] Eu quebrei.
+[109.6s] Essa é a resposta.
+[111.1s] Mas a tela pede a mesma lista mil vezes.
+[114.3s] Então a API guarda a resposta pronta.
+[117.0s] Logo na entrada.
+[118.1s] Esse é o Cash.
+[119.7s] Mas deu erro às três da manhã.
+[121.7s] E ninguém sabe por que.
+[123.5s] Então cada pedido deixa um registro.
+[125.8s] Quem pediu, o que e quanto demorou.
+[128.6s] Esse é o Log.
+[130.0s] E pra ninguém adivinhar as rotas,
+[132.3s] o Clô descreve o manual a partir do código.
+[135.3s] Essa é a documentação.
+[137.2s] Parabéns!
+[138.3s] Agora você sabe o que tem dentro de uma API.
+[141.4s] Agora comenta qual peça você quer ver desmontada.

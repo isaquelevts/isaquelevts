@@ -1,0 +1,57 @@
+[  0.0s] Se você precisa subir um monte de andares e só tem uma escada, você vai chegar lá,
+[  5.0s] mas vai ser extremamente cansativo, e você não quer passar por isso nunca mais.
+[  9.6s] Então você abre um túnel em pé, do chão até o topo, e põe dentro uma caixa pendurada
+[ 14.4s] num cabo de aço.
+[ 15.7s] Lá em cima, um motor enrola o cabo e puxa a caixa.
+[ 18.8s] Essa é a cabine.
+[ 20.5s] Mas a cabine cheia de gente pesa muito, e o motor teria que levantar esse peso todo
+[ 25.1s] toda vez.
+[ 26.1s] Então você passa o cabo por uma roda no topo e pendura, do outro lado, um peso que equilibra
+[ 31.0s] a cabine.
+[ 32.0s] Quando ela sobe, ele desce.
+[ 33.7s] Que nem numa gangorra, o motor só dá um empurrãozinho pra compensar o peso que falta.
+[ 38.0s] Esse é o contra-peso.
+[ 39.7s] Mas pendurada no cabo, a cabine balança e bate nas paredes.
+[ 43.4s] Então você prende a cabine em trilhos de aço do chão até o topo, e ela desliza
+[ 47.8s] neles.
+[ 48.8s] Essas são as guias.
+[ 49.8s] Mas o motor não sabe onde fica cada andar.
+[ 52.0s] A cabine passa do ponto, volta e para com um degrau na porta.
+[ 56.0s] Então você liga o motor a um computador, que conta as voltas, sabe onde a cabine está,
+[ 60.5s] e vai freando até parar certinho no andar.
+[ 62.9s] Esse é o controlador eletrônico.
+[ 65.2s] Mas se alguém abrir a porta do andar quando a cabine não está ali, cai no buraco.
+[ 70.8s] Então você coloca em cada andar uma porta que fica trancada e só destrava quando
+[ 75.2s] a cabine chega.
+[ 76.2s] Essa é a porta de pavimento.
+[ 78.0s] Mas com a cabine andando, quem está lá dentro pode encostar na parede do posto.
+[ 82.2s] Então você coloca uma porta na própria cabine, que fecha antes de ela sair e abre junto com
+[ 87.0s] a do andar.
+[ 88.0s] Essa é a porta da cabine.
+[ 90.0s] Mas se a cabine sair com alguma porta aberta, quem estiver passando por ela leva um tombo.
+[ 95.8s] Então você põe um contato elétrico em cada porta, e o controlador só liga o motor
+[ 99.8s] quando todas estão fechadas.
+[101.7s] Essa é a trava de porta.
+[103.3s] Mas se acabar a luz, nada segura o motor.
+[105.9s] E a cabine cheia desce sozinha.
+[107.7s] E cada vez mais rápido.
+[110.3s] Então você coloca no motor um freio que as molas deixam sempre apertado e só a eletricidade
+[115.1s] solta.
+[116.1s] Sem luz ele trava e segura a cabine.
+[118.4s] Esse é o freio do motor.
+[120.4s] Mas se esse único cabo arrebentar, a cabine despenca.
+[124.9s] Então você usa vários cabos e cada um, sozinho, já aguenta a cabine cheia.
+[129.4s] Mas se mesmo assim todos arrebentarem, ela despenca do mesmo jeito.
+[134.5s] Então você prende nela um cabo fino que gira uma roda lá em cima.
+[138.1s] Se ela desce rápido demais, a roda trava e puxa uma alavanca na cabine.
+[142.8s] Esse é o limitador de velocidade.
+[144.5s] A alavanca aciona um freio que agarra as guias e trava a cabine.
+[148.4s] Esse é o freio de segurança.
+[150.0s] Mas se ela passar do térreo, bate com tudo no fundo do poço.
+[154.6s] Então lá no fundo você coloca molas gigantes.
+[158.0s] Esses são os para-choques.
+[159.6s] Coloque botões em cada andar.
+[161.1s] Um painel na cabine e uma musiquinha que ninguém aguenta.
+[164.4s] Agora é só apertar o botão.
+[166.3s] Parabéns você construiu um elevador.
+[168.6s] E se você quiser criar um vídeo desses do zero, comenta quero e segue desmontando o mundo.

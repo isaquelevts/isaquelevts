@@ -1,0 +1,27 @@
+[  0.0s] Se você puxar um fio da usina até a cidade, a energia chega nas casas.
+[  5.0s] Mas o fio no chão esquenta no meio do capim, solta a faísca e o campo pega fogo.
+[ 10.7s] Então você crava fundações no campo, monta torres de aço e estica os cabos lá no alto.
+[ 16.6s] Essas são as torres de transmissão.
+[ 19.1s] Mas o cabo encosta no aço da torre e a energia escapa por ela até o chão.
+[ 24.4s] Então você pendura cada cabo numa corrente de pratos de vidro que não deixam a energia
+[ 29.8s] passar.
+[ 30.8s] Esses são os isoladores.
+[ 32.6s] Mas o caminho é tão longo que o cabo esquenta e boa parte da energia vira calor antes de
+[ 38.4s] chegar.
+[ 39.4s] Então na saída da usina você monta transformadores que aumentam muito a tensão.
+[ 44.4s] Parece ao contrário, mas com a tensão bem alta a energia viaja quase sem esquentar
+[ 49.6s] o cabo.
+[ 50.6s] Essa é a subestação elevadora.
+[ 52.7s] Mas no calor da tarde o metal estica, o cabo desce e encosta na copa de uma
+[ 58.3s] arvore.
+[ 59.3s] Essa corta as árvores numa faixa larga embaixo de toda a linha.
+[ 63.6s] Essa é a faixa de servidão.
+[ 65.6s] Mas um raio cai na linha e a descarga corre pelo cabo até a cidade.
+[ 70.3s] Então você estica o cabo sem energia por cima de todas as torres, que pega o raio
+[ 75.6s] e manda para o chão.
+[ 77.1s] Esse é o cabo para raios.
+[ 79.1s] Agora a energia atravessa o campo lá no alto e chega até a porta da cidade.
+[ 84.5s] Parabéns!
+[ 85.5s] Você construiu uma linha de transmissão.
+[ 88.2s] Quer aprender a fazer vídeos assim?
+[ 90.1s] O link está na bio.
