@@ -1,20 +1,21 @@
-# Roteiro 06 — "Você entrou pra pedir um lanche de 30 e saiu pagando 47"
+# Roteiro 06 — "Você construiu uma lanchonete que vende batata pra todo mundo"
 
-**Formato:** reel 9:16, animação 3D low-poly, boneco original (seu próprio personagem), narração em off, legenda palavra por palavra.
-**Duração-alvo:** ~115 s (~330 palavras).
+**Formato:** o mesmo dos virais analisados em `../ANALISE.md`. Reel 9:16, animação 3D low-poly, boneco original (o seu personagem), narração em off a ~190 palavras/min, legenda palavra por palavra.
+**Duração-alvo:** ~150 s (~470 palavras).
 **Cenário:** lanchonete genérica, sem marca real.
-**Fio condutor:** o espectador é o cliente. O vídeo segue os três "sins" que transformaram 30 reais em 47. Cada "sim" é um mecanismo de venda.
+**O que o espectador constrói:** uma lanchonete que transforma o cliente de 30 reais em um cliente de 47.
 
-**A conta (manter na tela, como um recibo que vai crescendo):**
+## Como este roteiro segue a fórmula do documento
 
-| Momento | Item | Total |
-|---|---|---|
-| Pedido | Lanche | R$ 30 |
-| 1º sim | + Batata (R$ 8) | R$ 38 |
-| 2º sim | Combo lanche + batata + refri (separado daria R$ 45) | R$ 44 |
-| 3º sim | + Aumentar o tamanho (R$ 3) | **R$ 47** |
+- **Gancho tipo A** ("Se você [ação ingênua]…" + consequência concreta), igual ao dos 7 mais curtidos.
+- **8 voltas** de "Mas → Então você → Esse é o X", uma a cada ~13–18 s. Cada solução cria o próximo problema.
+- **Nome depois da função** em todas as peças.
+- **"Parece ao contrário, mas…"** em ~60% do vídeo (o lucro está no acompanhamento).
+- **3 "É por isso que…"** ligados ao cotidiano (foto do combo, totem, caixa do mercado).
+- **Fecho:** "Coloque [itens + piada]", "Agora é só…", "Parabéns! Você construiu…".
+- **CTA binário de identidade:** "sabia → vendedor / não sabia → cliente".
 
-Os valores são ilustrativos. Se tiver os preços reais de algum lugar, use, desde que a conta feche.
+**A conta (fecha em todas as etapas):** lanche R$ 30 → + batata R$ 8 = R$ 38 → combo com refri R$ 44 (separado: 30 + 8 + 7 = 45) → + upgrade R$ 3 = **R$ 47**. Valores ilustrativos.
 
 ---
 
@@ -22,81 +23,80 @@ Os valores são ilustrativos. Se tiver os preços reais de algum lugar, use, des
 
 | Tempo | Narração | Cena / elemento visual |
 |---|---|---|
-| 0:00 | **Você entrou pra pedir um lanche de 30 reais.** | Boneco-cliente no balcão. Cardápio: hambúrguer "R$ 30". |
-| 0:03 | **E saiu pagando 47.** | Recibo cai na mão dele: "R$ 47". Círculo vermelho no valor. |
-| 0:05 | **Ninguém te enganou. Você só disse "sim" três vezes.** | Três quadradinhos vazios aparecem no canto: ☐ ☐ ☐ |
-| 0:10 | O primeiro sim vem na hora de pagar. | Câmera vai para o caixa. |
-| 0:13 | "Quer batata?" | Atendente com balão de fala. A batata brilha na vitrine. |
-| 0:15 | Repara: ele não pergunta "quer mais alguma coisa?". | Balão "quer mais alguma coisa?" aparece e é riscado. |
-| 0:19 | Pra essa, você diz "não" sem pensar. | Cliente balança a cabeça no automático. |
-| 0:22 | "Quer batata?" só pede um sim ou um não. | Balão "SIM / NÃO". |
-| 0:25 | E por que na hora de pagar? Porque do lado de 30 reais, 8 parecem pouco. | "R$ 8" pequeno ao lado de "R$ 30" grande. |
-| 0:31 | Sozinha, essa batata pareceria cara. | "R$ 8" sozinho, enorme na tela. |
-| 0:34 | **Essa é a venda adicional.** Seu lanche já tá em 38. | Etiqueta "VENDA ADICIONAL". Recibo: R$ 38. ☑ ☐ ☐ |
-| 0:39 | O segundo sim vem disfarçado de desconto. | Atendente sorri, com cara de quem vai fazer um favor. |
-| 0:42 | "Leva o refri? No combo, os três saem por 44." | Bandeja: lanche + batata + refri. |
-| 0:46 | Separado, daria 45. Você economizou 1 real. | "R$ 45" riscado, "R$ 44" ao lado. |
-| 0:50 | Gastando 6 a mais. | Seta vermelha: "38 → 44". |
-| 0:52 | **Esse é o combo.** Ele não te faz pagar menos. Ele te faz levar mais. | Etiqueta "COMBO". ☑ ☑ ☐ |
-| 0:57 | E ainda tira a conta da sua cabeça: um preço só, em vez de três pra somar. | Três etiquetas de preço se fundem em uma. |
-| 1:03 | O terceiro sim é o menor. E costuma ser o que mais dá lucro. | Câmera fecha no copo de refri. |
-| 1:07 | "Aumenta por mais 3?" | Atendente segura um copo grande. |
-| 1:09 | Pra você, é um copo bem maior. Pra lanchonete, ele costuma custar pouco a mais. | Duas setas: "pra você: GRANDE" / "pra loja: pouco". |
-| 1:15 | **Esse é o upgrade.** Pronto: 47. | Etiqueta "UPGRADE". Recibo: R$ 47. ☑ ☑ ☑ |
-| 1:18 | Mas repara numa coisa. | Pausa. Câmera se afasta, mostra a bandeja inteira. |
-| 1:20 | Em nenhum momento alguém tentou te vender o lanche. | O hambúrguer fica em destaque, sozinho. |
-| 1:23 | Porque o lanche não precisa ser vendido. Ele é o motivo de você entrar. | Fachada da lanchonete com o hambúrguer gigante no letreiro. |
-| 1:28 | Em muito lugar, o lucro maior tá no que vem junto: batata, refri, sobremesa. | Balança: lanche num prato, acompanhamentos pesando mais no outro. |
-| 1:33 | O lanche atrai. O acompanhamento paga a conta. | Lanche = ícone de ímã; acompanhamentos = ícone de cifrão. |
-| 1:36 | É por isso que o caixa do mercado tem bala. | Corte rápido: caixa de mercado com balas. |
-| 1:39 | E o app de entrega te oferece bebida antes de você finalizar. | Corte rápido: tela de app com "adicionar bebida?". |
-| 1:43 | E não é golpe: você pode dizer não. Bom vendedor pergunta uma vez só. | Cliente diz "não", atendente sorri e segue. |
-| 1:48 | **Parabéns. Agora você sabe por que seu lanche de 30 custou 47.** | Confete. Recibo final em destaque. |
-| 1:52 | Se você sempre diz sim pra batata, comenta "batata". Se você resiste, comenta "não". | CTA na tela: "BATATA" ou "NÃO". |
-
----
-
-## Por que essa estrutura segura até o fim
-
-- Os **três quadradinhos** (☐ ☐ ☐) deixam visível quanto falta, e o recibo crescendo mostra o progresso.
-- Quando o terceiro "sim" fecha a conta (~1:15), uma **pergunta nova** já abre: "ninguém tentou te vender o lanche". Isso evita que o espectador sinta que o vídeo acabou antes da virada.
-- O "não é golpe" desarma a objeção de que o vídeo é só sobre manipulação. Também ajuda se o perfil fala com donos de negócio.
+| 0:00 | **Se você abrir uma lanchonete e vender só hambúrguer, você vai ter fila na porta e conta atrasada no fim do mês.** | Boneco abre a porta de uma lanchonete. Fila grande do lado de fora. Corte: boleto vencido em cima do balcão. |
+| 0:07 | Porque cada hambúrguer gasta carne, pão, queijo e gás, e sobra pouco de cada um. | O hambúrguer de R$ 30 se desmonta; quase todo o dinheiro vai para os ingredientes, sobram poucas moedas. |
+| 0:13 | Então você frita batata, que custa pouco pra fazer, e coloca na vitrine. | Fritadeira; batatas douradas vão para a vitrine iluminada. |
+| 0:18 | Mas ninguém pede. | Clientes passam pela vitrine sem olhar. |
+| 0:20 | O cliente entra decidido, pede o lanche e nem olha pro lado. | Cliente com "viseira" de cavalo andando reto até o caixa. |
+| 0:24 | Então, na hora de pagar, o atendente pergunta: "quer batata?" | Atendente com balão de fala no caixa. |
+| 0:28 | Do lado de 30 reais, 8 parece pouco. E o cliente diz sim. | "R$ 8" pequenininho ao lado de "R$ 30". Batata vai pra bandeja. |
+| 0:32 | **Essa é a venda adicional.** | Etiqueta "VENDA ADICIONAL". Recibo no canto: R$ 38. |
+| 0:34 | Mas no dia seguinte o atendente pergunta "vai querer mais alguma coisa?". | Atendente novo, balão com a frase. |
+| 0:39 | E o cliente diz "não" sem nem pensar. | Cliente balança a cabeça no automático; batata fica na vitrine. |
+| 0:42 | Então você ensina a perguntar por uma coisa só, que dá pra ver e cheirar. | Câmera vai do atendente direto para a batata fumegando. |
+| 0:47 | **Essa é a pergunta fechada.** Ela só pede um sim ou um não. | Etiqueta "PERGUNTA FECHADA". Balão "SIM / NÃO". |
+| 0:51 | Mas o cliente faz a conta de cabeça: 30 do lanche, 8 da batata, 7 do refri. 45. | Três etiquetas de preço somando no ar sobre a cabeça do cliente. |
+| 0:57 | E desiste do refri. | O refri volta pra geladeira. |
+| 0:59 | Então você junta os três numa bandeja, com um preço só, um real mais barato. | Bandeja: lanche + batata + refri. "R$ 45" riscado, "R$ 44". |
+| 1:04 | **Esse é o combo.** | Etiqueta "COMBO". Recibo: R$ 44. |
+| 1:06 | É por isso que, no cardápio, a foto do combo é sempre maior que a do lanche sozinho. | Painel do cardápio: foto do combo enorme, lanche sozinho pequenininho no canto. |
+| 1:11 | Mas quem pegou o combo acha que já acabou. | Cliente pegando a carteira, satisfeito. |
+| 1:14 | Então o atendente levanta o copo grande: "aumenta por mais 3?" | Copo pequeno ao lado de um copo enorme. |
+| 1:18 | Pro cliente, é um copo bem maior. Pra lanchonete, mais refri e gelo custam pouco. | Seta: "pro cliente: GRANDE". Seta: "pra loja: pouco". |
+| 1:24 | **Esse é o upgrade.** | Etiqueta "UPGRADE". Recibo: R$ 47. |
+| 1:26 | **Parece ao contrário, mas quem paga o aluguel não é o hambúrguer.** | Pausa. Câmera se afasta, mostrando a bandeja. |
+| 1:30 | O lanche traz o cliente. Em muito lugar, o lucro maior tá na batata e no refri. | Balança: hambúrguer num prato, batata e refri pesando mais no outro. |
+| 1:36 | É por isso que o caixa do mercado é cheio de bala e chiclete. | Corte rápido: caixa de mercado com balas. |
+| 1:40 | Mas na hora do almoço a fila cresce, e o atendente esquece de perguntar. | Fila virando a esquina; atendente suando, só entrega o lanche. |
+| 1:45 | Então você coloca uma tela no balcão, que pergunta pra todo mundo, toda vez. | Totem com tela; na tela, "Adicionar batata?". |
+| 1:50 | **Esse é o totem de autoatendimento.** | Etiqueta "TOTEM". |
+| 1:52 | É por isso que ele te oferece batata, bebida e sobremesa antes de deixar você pagar. | Tela do totem passando três ofertas seguidas. |
+| 1:57 | Mas tem cliente que pede pelo celular, do sofá de casa. | Cliente deitado no sofá, com o celular. |
+| 2:01 | Então, antes de fechar o pedido, o app mostra: "quem pediu isso também levou…". | Tela do app com sugestões. |
+| 2:06 | **Essa é a recomendação.** | Etiqueta "RECOMENDAÇÃO". |
+| 2:08 | Mas se cada tela e cada atendente empurrar alguma coisa, o cliente cansa e não volta. | Cliente cercado de balões de oferta, saindo irritado. |
+| 2:13 | Então você oferece uma vez só, e aceita o não com um sorriso. | Atendente pergunta, cliente diz "não", atendente sorri. Cliente volta no dia seguinte. |
+| 2:18 | Coloque um uniforme, um cardápio com a foto do lanche bem mais bonita que o de verdade e uma musiquinha que não sai da sua cabeça. | Piada visual: foto perfeita do lanche vs. lanche real amassado. |
+| 2:25 | Agora o cliente que entrou pra gastar 30 sai pagando 47. | Recibo final em destaque: R$ 30 riscado, R$ 47. |
+| 2:29 | **Parabéns! Você construiu uma lanchonete que vende batata pra todo mundo.** | Confete. |
+| 2:32 | Se você sabia, comente **vendedor**. Se não sabia, comente **cliente**. | CTA na tela. |
 
 ---
 
 ## Notas de precisão
 
-- **"Costuma" / "em muito lugar":** a margem de bebidas e acompanhamentos costuma ser maior, mas varia por negócio. Não afirme como regra universal.
-- **Comparação de preço relativo** (8 parece pouco ao lado de 30) é um efeito estudado em comportamento do consumidor, mas o tamanho varia com o contexto.
-- **Valores ilustrativos:** a conta precisa fechar (30 → 38 → 44 → 47; separado 30 + 8 + 7 = 45).
+- **"Em muito lugar" / "custam pouco":** a margem de bebidas e acompanhamentos costuma ser maior que a do lanche, mas varia por negócio. Não afirmar como regra universal.
+- **"8 parece pouco do lado de 30":** efeito de comparação de preço relativo, estudado em comportamento do consumidor; o tamanho varia com o contexto.
+- **"A foto do combo é sempre maior":** é observação de cardápio, não lei. Se quiser ser mais cauteloso, troque "sempre" por "quase sempre".
 - **Não nomeie marcas** na narração nem no visual.
 
 ---
 
 ## Legenda do post (copiar e colar)
 
-> Você entrou pra pedir um lanche de 30 e saiu pagando 47. 🍟
-> Não foi golpe. Foram três "sins", e cada um tem um motivo.
+> Por que toda lanchonete pergunta "quer batata?" 🍟
+> Construa com a gente uma lanchonete que transforma o cliente de 30 reais num cliente de 47.
 >
 > Quer aplicar isso no seu negócio? Comente **UPSELL** que eu te mando o checklist.
 >
 > #marketing #vendas #upsell #comofunciona #psicologiadeconsumo #empreendedorismo
 
 ## CTA alternativo (se o objetivo for lead)
-Troque o fecho por: "Quer aplicar os três sins no seu negócio? Comenta **UPSELL** que eu te mando o checklist no DM." (Prepare o checklist antes de postar.)
+Troque o fecho por: "Quer montar isso no seu negócio? Comenta **UPSELL** que eu te mando o checklist no DM." (Prepare o checklist antes de postar.)
 
 ---
 
 ## Lista de cenas para o animador / ferramenta 3D
 
-1. Lanchonete (balcão, caixa, vitrine com batata, cardápio)
-2. Boneco-cliente + atendente (personagens originais)
-3. Recibo que cresce (R$ 30 → 38 → 44 → 47), sempre visível num canto
-4. Três quadradinhos ☐ ☐ ☐ que vão sendo marcados
-5. Bandeja com lanche, batata, refri; copo pequeno → copo grande
-6. Etiquetas flutuantes: VENDA ADICIONAL, COMBO, UPGRADE
-7. Balança (lanche vs. acompanhamentos); ícones de ímã e cifrão
-8. Cortes rápidos: caixa de mercado com balas, tela de app de entrega
-9. Confete no fecho
+1. Lanchonete (fachada com fila, balcão, caixa, fritadeira, vitrine, geladeira de refri, cardápio na parede)
+2. Boneco-dono, atendente e clientes (personagens originais)
+3. Recibo no canto da tela, que cresce: R$ 30 → 38 → 44 → 47
+4. Bandeja com lanche, batata, refri; copo pequeno e copo enorme
+5. Etiquetas flutuantes: VENDA ADICIONAL, PERGUNTA FECHADA, COMBO, UPGRADE, TOTEM, RECOMENDAÇÃO
+6. Balança (hambúrguer vs. batata e refri)
+7. Totem de autoatendimento; celular com app; sofá
+8. Cortes rápidos: boleto vencido, caixa de mercado com balas
+9. Gag final: foto perfeita do lanche vs. lanche real amassado
+10. Confete no fecho
 
-**Visual:** câmera orbital leve, setas e círculos vermelhos no ponto da dúvida, legenda palavra por palavra, branca, fonte grossa, centralizada abaixo do meio.
+**Visual:** como nos virais, câmera orbital leve, setas e círculos vermelhos no ponto do problema, legenda palavra por palavra, branca, fonte grossa, centralizada abaixo do meio. A falha aparece sempre na tela antes da solução.
